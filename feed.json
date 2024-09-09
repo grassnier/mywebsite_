@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kitty galore",
+    "description": "",
+    "home_page_url": "https://grassnier.github.io/mywebsite_",
+    "feed_url": "https://grassnier.github.io/mywebsite_/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "TotallyNotJames"
+    },
+    "items": [
+    ]
+}
